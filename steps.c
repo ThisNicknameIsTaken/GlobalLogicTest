@@ -3,6 +3,7 @@
 
 int main(int argc, char** argv)
 {
+    
     if(argc < 3){ //checking if user inputs enough arguments
         printf("Not enough arguments!\n");
         return -1;
